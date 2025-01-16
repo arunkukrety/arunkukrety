@@ -64,9 +64,6 @@
   <img src="https://img.shields.io/badge/Movie%20Review%20Platform-In%20Development-FF9A00?style=for-the-badge&logo=firebase&logoColor=white" alt="Movie Review Platform" />
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crystal%20Ball.png" alt="Crystal Ball" width="25" height="25" />
-</div>
 
 ## 🎯 Future Endeavors
 <div align="center">
