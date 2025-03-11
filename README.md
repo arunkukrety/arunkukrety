@@ -54,12 +54,12 @@
 
 ## 📊 GitHub Analytics
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=arunk-03&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=arunk-03&theme=tokyonight&background=0D1117&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=arunkukrety&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=arunkukrety&theme=tokyonight&background=0D1117&hide_border=true" alt="GitHub Streak" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunk-03&theme=tokyonight&bg_color=0D1117&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunkukrety&theme=tokyonight&bg_color=0D1117&hide_border=true&layout=compact" alt="Top Languages" />
   
-  <img src="https://github-profile-trophy.vercel.app/?username=arunk-03&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=arunkukrety&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
 </div>
 
 ## 💻 Projects
@@ -80,7 +80,7 @@
 
 ## 📈 Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arunk-03&custom_title=Arun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arunkukrety&custom_title=Arun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Activity Graph" />
 </div>
 
 <div align="center">
@@ -101,7 +101,7 @@
 
   <br>
   <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=arunk-03&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=arunkukrety&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=120&section=footer"/>
